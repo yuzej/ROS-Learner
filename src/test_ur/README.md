@@ -1,4 +1,6 @@
-#  为moveit!学习示例文件
+#  moveit!学习示例文件
+
+## 在catkin/src中建立新功能包/test_ur，将示例文件迁移到ur5上运行 
 
 moveit_cartesian_demo.py  # 笛卡尔空间点对点规划
 
