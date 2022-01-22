@@ -9,6 +9,8 @@ Part 2 ROS学习笔记
 
 Part 3 ROS报错
 
+Part 4 ROS开发的辅助工具介绍
+
 ## ROS学习计划
 
 A.	ROSwiki中文版（阅读）
